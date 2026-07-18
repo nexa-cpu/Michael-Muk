@@ -16,7 +16,7 @@
 * **Robotics:** ROS (Robot Operating System), Embedded C++ (Future Roadmap).
 
 ### 📈 Global Scaling 2026
-- 🌍 SADC Expansion: Zimbabwe 🇿🇼 | South Africa 🇿🇦
+- 🌍 Global Expansion Target.
 - 🏗️ Build status: **Active Deployment**
 - 🤝 Open for: Strategic Partnerships & Enterprise Pilots
 
